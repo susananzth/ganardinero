@@ -1,6 +1,21 @@
+iframe{
+    left: 25px;
+    height: 350px;
+    position: absolute;
+    top: 25px;
+    width: 50%;
+}
 .mdl-card {
+	height: 500px;
 	margin: 0 auto;
-	margin-top: 15px;
-	margin-bottom: 15px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 	width: 80%;
+	
+}
+.capt{
+	position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 40%
 }
